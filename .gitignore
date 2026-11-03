@@ -1,0 +1,13 @@
+# 敏感信息 —— 切勿提交
+.env
+*.key
+
+# 运行时数据（可能含真实会议内容）
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
